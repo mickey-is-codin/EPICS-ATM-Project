@@ -1,0 +1,11 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class Button8Trigger : MonoBehaviour
+{
+	void OnTriggerEnter (Collider other)
+	{
+		Debug.Log ("Entered trigger");
+	}
+}
+

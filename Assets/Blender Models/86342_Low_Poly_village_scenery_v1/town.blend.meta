@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: aa82ed0991db44501ac8bc31cc00809f
+timeCreated: 1492618518
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cylinder_001
+    100002: Cylinder_007
+    100004: grass
+    100006: House
+    100008: House_001
+    100010: House_002
+    100012: House_003
+    100014: Lamp_001
+    100016: Lamp_002
+    100018: Lamp_003
+    100020: Lamp_004
+    100022: Lamp_005
+    100024: Mill
+    100026: Pine
+    100028: Pine_001
+    100030: Pine_002
+    100032: Pine_003
+    100034: Pine_004
+    100036: Pine_005
+    100038: Pine_006
+    100040: Pine_007
+    100042: Pine_008
+    100044: Pine_009
+    100046: Pine_010
+    100048: Pine_011
+    100050: Pine_012
+    100052: Pine_013
+    100054: Plane
+    100056: Plane_001
+    100058: //RootNode
+    100060: Well
+    400000: Cylinder_001
+    400002: Cylinder_007
+    400004: grass
+    400006: House
+    400008: House_001
+    400010: House_002
+    400012: House_003
+    400014: Lamp_001
+    400016: Lamp_002
+    400018: Lamp_003
+    400020: Lamp_004
+    400022: Lamp_005
+    400024: Mill
+    400026: Pine
+    400028: Pine_001
+    400030: Pine_002
+    400032: Pine_003
+    400034: Pine_004
+    400036: Pine_005
+    400038: Pine_006
+    400040: Pine_007
+    400042: Pine_008
+    400044: Pine_009
+    400046: Pine_010
+    400048: Pine_011
+    400050: Pine_012
+    400052: Pine_013
+    400054: Plane
+    400056: Plane_001
+    400058: //RootNode
+    400060: Well
+    2300000: Cylinder_001
+    2300002: Cylinder_007
+    2300004: grass
+    2300006: House
+    2300008: House_001
+    2300010: House_002
+    2300012: House_003
+    2300014: Lamp_001
+    2300016: Lamp_002
+    2300018: Lamp_003
+    2300020: Lamp_004
+    2300022: Lamp_005
+    2300024: Mill
+    2300026: Pine
+    2300028: Pine_001
+    2300030: Pine_002
+    2300032: Pine_003
+    2300034: Pine_004
+    2300036: Pine_005
+    2300038: Pine_006
+    2300040: Pine_007
+    2300042: Pine_008
+    2300044: Pine_009
+    2300046: Pine_010
+    2300048: Pine_011
+    2300050: Pine_012
+    2300052: Pine_013
+    2300054: Plane
+    2300056: Plane_001
+    2300058: Well
+    3300000: Cylinder_001
+    3300002: Cylinder_007
+    3300004: grass
+    3300006: House
+    3300008: House_001
+    3300010: House_002
+    3300012: House_003
+    3300014: Lamp_001
+    3300016: Lamp_002
+    3300018: Lamp_003
+    3300020: Lamp_004
+    3300022: Lamp_005
+    3300024: Mill
+    3300026: Pine
+    3300028: Pine_001
+    3300030: Pine_002
+    3300032: Pine_003
+    3300034: Pine_004
+    3300036: Pine_005
+    3300038: Pine_006
+    3300040: Pine_007
+    3300042: Pine_008
+    3300044: Pine_009
+    3300046: Pine_010
+    3300048: Pine_011
+    3300050: Pine_012
+    3300052: Pine_013
+    3300054: Plane
+    3300056: Plane_001
+    3300058: Well
+    4300000: Pine_013
+    4300002: Pine_012
+    4300004: Pine_011
+    4300006: Pine_010
+    4300008: Pine_009
+    4300010: Pine_008
+    4300012: Pine_007
+    4300014: Pine_006
+    4300016: Pine_005
+    4300018: Pine_004
+    4300020: Pine_003
+    4300022: Pine_002
+    4300024: Pine_001
+    4300026: Cylinder_001
+    4300028: Plane
+    4300030: Lamp_005
+    4300032: Lamp_004
+    4300034: Lamp_003
+    4300036: Lamp_002
+    4300038: House_003
+    4300040: House_002
+    4300042: House_001
+    4300044: House
+    4300046: Well
+    4300048: Mill
+    4300050: Lamp_001
+    4300052: Pine
+    4300054: grass
+    4300056: Cylinder_007
+    4300058: Plane_001
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+﻿using UnityEngine;
+using LMWidgets;
+using UnityEngine.SceneManagement;
+
+public class ToggleButtonDataBinder : DataBinderToggle {
+	bool toggle = false;
+
+	override public bool GetCurrentData() {
+		return toggle;
+	}
+
+	override protected void setDataModel(bool value) {
+		toggle = value;
+	}
+}

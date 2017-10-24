@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/ATM Scenes/Approach.unity
+    guid: 7d0915d36c8764794aa2b9e987c12637
+  - enabled: 0
+    path: Assets/ATM Scenes/InsertCard.unity
+    guid: d34155675d6d3459686713643248c60b
+  - enabled: 0
+    path: Assets/ATM Scenes/ScreenAccess.unity
+    guid: 8cefd70faab3d4e7eaf90875557349ed
+  - enabled: 1
+    path: Assets/ATM Scenes/PINEnter.unity
+    guid: cbe74401cba574979a3c85a78f92db80
+  - enabled: 1
+    path: Assets/LeapMotion/Scenes/FlowerAndRobot.unity
+    guid: 61a41191ba7694c5e9cd9ab3fa299683
+  - enabled: 1
+    path: Assets/LeapMotion/Scenes/LotsOfBlocks.unity
+    guid: e6d05199e2ef14a6bbe27b755cfd7894
+  - enabled: 0
+    path: Assets/LeapMotion/Scenes/PinchingSandbox.unity
+    guid: 86d2c8943652e4b309612d2982bafaa5
+  - enabled: 1
+    path: Assets/LeapMotion/Scenes/CubeWave.unity
+    guid: 97e92bbada41446748b4d811a92aeaea
+  - enabled: 0
+    path: Assets/LeapMotion/Scenes/MagneticPinch.unity
+    guid: a3347efd0814e4638886a9d42f8d0c08
+  - enabled: 1
+    path: Assets/DataTracking/Data Tracker.unity
+    guid: 3bb2dda3fa7524a2ab99eee88c1bbca4

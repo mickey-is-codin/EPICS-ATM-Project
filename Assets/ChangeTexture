@@ -1,0 +1,12 @@
+﻿using System;
+using UnityEngine;
+using LMWidgets;
+using System.Collections;
+
+public class ChangeTexture : MonoBehaviour{
+
+	void ChangeToTexture (int textureToChangeTo){
+		Application.LoadLevel (textureToChangeTo);
+	}
+}
+
